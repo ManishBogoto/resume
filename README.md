@@ -1,7 +1,9 @@
-Portfolio - https://manishbogoto.github.io/resume/
+**Portfolio -** https://manishbogoto.github.io/portfolio/
+
+**Single page CV -** https://manishbogoto.github.io/resume/
 
 **Roadmap.sh**
 
-Single page CV - https://roadmap.sh/projects/single-page-cv
+1. https://roadmap.sh/projects/single-page-cv
 
 
